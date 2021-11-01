@@ -14,36 +14,21 @@ Here are some ideas to get you started:
 -->
 
 
+Hey! I'm Rennan Cockles 👋
 
-[![Rennan Cockles's github stats](https://github-readme-stats.vercel.app/api?username=rennancockles&count_private=true&include_all_commits=true&show_icons=true&theme=blue-green)](https://github.com/rennancockles)
+I'm a software/data engineer from Brazil. 🇧🇷
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennancockles&hide=jupyter%20notebook&theme=blue-green&card_width=495)](https://github.com/rennancockles)
+I have a bachelor's degree in Computer Engineering with emphasis on computational modeling by the State University of Rio de Janeiro (UERJ). 👨‍🎓
+
+I currently work as a specialist data engineer at Wittel 👨‍💼
+
+I have more than 10 years of experience in several IT areas such as software engineer, data engineer, artificial intelligence and infrastructure. 👨‍💻
+
+I love to solve problems and like to think that there is always a simple solution to them and usually automating is one of them. 🤓
+
+I like to build things with Machine Learning/Deep Learning, Docker, Bash Script, Python, NodeJS, VueJS, TypeScript (and JavaScript) and modern backend APIs. 👊
  
 --------------
 
-<a href="https://github.com/rennancockles/alahid">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rennancockles&theme=blue-green&repo=alahid" />
-</a>
-
-<a href="https://github.com/rennancockles/rastreio">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rennancockles&theme=blue-green&repo=rastreio" />
-</a>
-
-<a href="https://github.com/rennancockles/pontofreela">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rennancockles&theme=blue-green&repo=pontofreela" />
-</a>
-
-<a href="https://github.com/rennancockles/weblogger">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rennancockles&theme=blue-green&repo=weblogger" />
-</a>
-
-<a href="https://github.com/rennancockles/pyfsmon">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rennancockles&theme=blue-green&repo=pyfsmon" />
-</a>
-
-<a href="https://github.com/rennancockles/AnnoyingClipboard">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rennancockles&theme=blue-green&repo=AnnoyingClipboard" />
-</a>
-
-
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennancockles&hide=jupyter%20notebook&theme=github_dark&card_width=495)](https://github.com/rennancockles)
 
