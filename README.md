@@ -27,7 +27,14 @@ I have more than 10 years of experience in several IT areas such as software eng
 I love to solve problems and like to think that there is always a simple solution to them and usually automating is one of them. 🤓
 
 I like to build things with Machine Learning/Deep Learning, Docker, Bash Script, Python, NodeJS, VueJS, TypeScript (and JavaScript) and modern backend APIs. 👊
- 
+
+You can find me on:
+
+* [My website: www.r3ck.com.br](https://www.r3ck.com.br/)
+* [GitHub as @rennancockles (you are here)](https://github.com/rennancockles)
+* [LinkedIn](https://linkedin.com/in/rennancockles)
+* [Medium](https://r3ck0.medium.com/)
+
 --------------
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rennancockles&hide=jupyter%20notebook&theme=github_dark&card_width=495)](https://github.com/rennancockles)
