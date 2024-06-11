@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 
 Hey! I'm Rennan Cockles 👋
 
-I'm a software/data engineer from Brazil. 🇧🇷
+I'm a software/ml engineer from Brazil. 🇧🇷
 
 I have a bachelor's degree in Computer Engineering with emphasis on computational modeling by the State University of Rio de Janeiro (UERJ). 👨‍🎓
 
-I currently work as a specialist data engineer at Wittel 👨‍💼
+I currently work as a lead machine learning engineer at Blue Orange Digital 👨‍💼
 
-I have more than 10 years of experience in several IT areas such as software engineer, data engineer, artificial intelligence and infrastructure. 👨‍💻
+I have more than 10 years of experience in several IT areas such as software engineering, data engineering, machine learning engineering, artificial intelligence and infrastructure. 👨‍💻
 
 I love to solve problems and like to think that there is always a simple solution to them and usually automating is one of them. 🤓
 
-I like to build things with Machine Learning/Deep Learning, Docker, Bash Script, Python, NodeJS, VueJS, TypeScript (and JavaScript) and modern backend APIs. 👊
+I like to build things with Machine Learning, Docker, Bash Script, Python, NodeJS, TypeScript (and JavaScript) and modern backend APIs. 👊
 
 You can find me on:
 
