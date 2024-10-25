@@ -33,7 +33,7 @@ You can find me on:
 * [My website: www.r3ck.com.br](https://www.r3ck.com.br/)
 * [GitHub as @rennancockles (you are here)](https://github.com/rennancockles)
 * [LinkedIn](https://linkedin.com/in/rennancockles)
-* [Medium](https://r3ck0.medium.com/)
+* [Youtube](https://youtube.com/R3CkTech)
 
 --------------
 
